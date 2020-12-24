@@ -1,0 +1,8 @@
+[03-Oct-2019 23:01:10 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/distance123/public_html/duroos/vendor/dompdf/dompdf/src/Dompdf.php on line 610
+[03-Oct-2019 23:01:10 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/distance123/public_html/duroos/vendor/dompdf/dompdf/src/Dompdf.php on line 631
+[03-Oct-2019 23:01:10 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/distance123/public_html/duroos/vendor/dompdf/dompdf/lib/Cpdf.php on line 467
+[03-Oct-2019 23:01:10 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/distance123/public_html/duroos/vendor/dompdf/dompdf/lib/Cpdf.php on line 474
+[03-Oct-2019 23:01:10 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/distance123/public_html/duroos/vendor/dompdf/dompdf/lib/Cpdf.php on line 481
+[03-Oct-2019 23:01:10 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/distance123/public_html/duroos/vendor/dompdf/dompdf/lib/Cpdf.php on line 488
+[03-Oct-2019 23:01:10 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/distance123/public_html/duroos/vendor/dompdf/dompdf/src/Css/Stylesheet.php on line 1360
+[03-Oct-2019 23:01:10 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/distance123/public_html/duroos/vendor/dompdf/dompdf/src/Renderer/Text.php on line 140

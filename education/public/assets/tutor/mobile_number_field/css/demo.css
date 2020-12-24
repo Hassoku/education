@@ -1,0 +1,64 @@
+
+.hide {
+  display: none; }
+
+pre {
+  margin: 0 !important;
+  display: inline-block; }
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+  background: none; }
+
+#mobile-number-div > input, #mobile-number-div > button {
+  height: 35px;
+  margin: 0;
+  padding: 6px 12px;
+  border-radius: 2px;
+  font-family: inherit;
+  font-size: 100%;
+  color: inherit; }
+#mobile-number-div > input[disabled], #mobile-number-div > button[disabled] {
+    background-color: #eee; }
+
+#mobile-number-div > input, #mobile-number-div > select {
+  border: 1px solid #CCC;
+  width: 250px; }
+
+::-webkit-input-placeholder {
+  color: #BBB; }
+
+::-moz-placeholder {
+  /* Firefox 19+ */
+  color: #BBB;
+  opacity: 1; }
+
+:-ms-input-placeholder {
+  color: #BBB; }
+
+#mobile-number-div > button {
+  color: #FFF;
+  background-color: #428BCA;
+  border: 1px solid #357EBD; }
+#mobile-number-div > button:hover {
+    background-color: #3276B1;
+    border-color: #285E8E;
+    cursor: pointer; }
+
+#mobile-number-div > #result {
+  margin-bottom: 100px; }
+
+/**/
+#error-mob-num-msg{
+  color: red;
+}
+#valid-mob-num-msg{
+  color: green;
+}
+.error-mob-num{
+  border-color: palevioletred;
+}
